@@ -1,2 +1,2 @@
-# SwiftUI-video-editor
+# SwiftUI macOS video editor
 Built with Claude Opus 4.6
